@@ -15,12 +15,7 @@ const Home = () => {
       <h2 className={css.heading}>Home page</h2>
       <div className={css.text}>
         <p>
-          Welcome to your own online phonebook. Save phone numbers with names
-          and manage them.
-        </p>
-        <p>
-          Start by creating or logging in to your own account and choose the
-          'Contacts' option at the top of the page.
+          Welcome to your online phonebook. Save all of yours phone numbers and do it with them whatever you want.
         </p>
       </div>
     </main>
